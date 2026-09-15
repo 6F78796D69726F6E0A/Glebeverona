@@ -1,0 +1,127 @@
+[
+  {
+    "room": 1,
+    "index": 1,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1691851482529884614/original/8d090f8c-aa9e-4f06-ab7d-908cf385db64.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Magnolia Room",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1691851482529884614",
+    "verifiedDescription": "Queen bed, magnolia artwork and ceiling-to-floor double sash windows",
+    "sourceCaption": "Verona House Glebe Room 2-2",
+    "recommendation": "primary"
+  },
+  {
+    "room": 2,
+    "index": 0,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760810042283053/original/083204db-7b1f-404c-b412-e09437394d7b.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Coastal Salon",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760810042283053",
+    "verifiedDescription": "Wide bedroom with coastal artwork, bed and sofa",
+    "sourceCaption": "Verona House Glebe Room 1-1",
+    "recommendation": "primary"
+  },
+  {
+    "room": 3,
+    "index": 0,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760936801823675/original/52928648-0342-4e76-8b63-3d969d53e8b4.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Terracotta Room",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760936801823675",
+    "verifiedDescription": "Wide bed, terracotta throw and art, amber chair",
+    "sourceCaption": "Verona House Glebe Room 3-2",
+    "recommendation": "primary"
+  },
+  {
+    "room": 5,
+    "index": 2,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760914044426342/original/94a9d027-f3b5-4b18-957a-52684ea29705.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Clifftop Salon",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760914044426342",
+    "verifiedDescription": "Wide bed, complete clifftop artwork, chair, breakfast bar and tall window",
+    "sourceCaption": "Verona House Glebe Room 6-2",
+    "recommendation": "primary"
+  },
+  {
+    "room": 6,
+    "index": 0,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760895828898340/original/3cf027d7-1c24-4ae3-afff-2236d8eb6b0f.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Jazz Room",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760895828898340",
+    "verifiedDescription": "Wide room with jazz artwork, black bed frame, tan leather sofa and timber",
+    "sourceCaption": "Verona House Glebe Room 5-1",
+    "recommendation": "primary"
+  },
+  {
+    "room": 7,
+    "index": 0,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760874478774579/original/8f1fb71b-059d-4feb-a1f2-7da5dbb8f745.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Old Fashioned Room",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760874478774579",
+    "verifiedDescription": "Wide bed, old fashioned cocktail artwork and amber styling",
+    "sourceCaption": "Verona House Glebe Room 7-1",
+    "recommendation": "primary"
+  },
+  {
+    "room": 8,
+    "index": 3,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760852965875139/original/55fa247d-13d5-4ee5-9201-ecda5ecba42f.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Sorrento Suite",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760852965875139",
+    "verifiedDescription": "Wide bed, sitting area and balcony doors",
+    "sourceCaption": "Verona House Glebe Room 8-3",
+    "recommendation": "primary"
+  },
+  {
+    "room": 9,
+    "index": 0,
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760835876532391/original/0e3ea24e-a587-4660-aae8-498b2f13f65f.jpeg?im_w=1440",
+    "size": [
+      1440,
+      960
+    ],
+    "roomName": "The Azure Retreat",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760835876532391",
+    "verifiedDescription": "Wide bedroom with blue styling and windows",
+    "sourceCaption": "Verona House Glebe Room 9-3",
+    "recommendation": "primary"
+  },
+  {
+    "room": 9,
+    "roomName": "The Azure Retreat",
+    "size": [
+      1440,
+      2160
+    ],
+    "sourceImageUrl": "https://a0.muscache.com/im/pictures/hosting/Hosting-1696760835876532391/original/2801a0c4-bd77-4a04-b4f5-eddfc75bf749.jpeg?im_w=1440",
+    "sourceListingUrl": "https://www.airbnb.com.au/rooms/1696760835876532391",
+    "sourceCaption": "Verona House Glebe Room 9-8",
+    "verifiedDescription": "Actual ensuite bathtub",
+    "recommendation": "secondary bathtub detail; portrait"
+  }
+]

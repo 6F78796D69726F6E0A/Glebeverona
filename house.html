@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-AU">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -12,23 +12,26 @@
 
 <title>The House | Verona House Glebe</title>
 <meta name="description" content="Discover the history and architecture of Verona House, a heritage-listed Victorian Italianate residence built in Glebe in 1888.">
+<link rel="icon" type="image/jpeg" href="assets/verona-house-logo.jpeg">
+<link rel="apple-touch-icon" href="assets/verona-house-logo.jpeg">
 </head>
 <body>
+<a class="skip-link" href="#main-content">Skip to content</a>
 <header class="site-header site-header--solid">
 <a class="brand" href="index.html" aria-label="Verona House home">
-  <span class="brand__mark">VH</span>
+  <img class="brand__logo" src="assets/verona-house-logo.jpeg" alt="Verona House crest — Glebe NSW, established 1888" width="1254" height="1254">
   <span class="brand__text">Verona House<small>Glebe · Sydney</small></span>
 </a>
-<button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
-<nav class="site-nav" aria-label="Primary navigation">
+<button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="site-nav"><span></span><span></span></button>
+<nav class="site-nav" aria-label="Primary navigation" id="site-nav">
   <a href="index.html">Home</a>
   <a href="rooms.html">Rooms</a>
-  <a href="house.html">The House</a>
+  <a href="house.html" aria-current="page">The House</a>
   <a href="glebe.html">Explore Glebe</a>
   <a class="nav-book" href="rooms.html">Book a room</a>
 </nav>
 </header>
-<main>
+<main id="main-content">
   <section class="page-hero page-hero--house">
     <div>
       <p class="eyebrow eyebrow--light">Built in 1888</p>
@@ -76,7 +79,7 @@
   <div class="footer-grid">
     <div>
       <a class="brand brand--footer" href="index.html">
-        <span class="brand__mark">VH</span>
+        <img class="brand__logo" src="assets/verona-house-logo.jpeg" alt="Verona House crest — Glebe NSW, established 1888" width="1254" height="1254">
         <span class="brand__text">Verona House<small>Boutique heritage accommodation</small></span>
       </a>
       <p>224 Glebe Point Road, Glebe, Sydney.</p>
@@ -84,7 +87,7 @@
     <div>
       <p class="footer-title">Discover</p>
       <a href="rooms.html">Rooms</a>
-      <a href="house.html">The House</a>
+      <a href="house.html" aria-current="page">The House</a>
       <a href="glebe.html">Explore Glebe</a>
     </div>
     <div>
@@ -93,6 +96,7 @@
       <a class="text-link text-link--light" href="rooms.html">Choose your room →</a>
     </div>
   </div>
+  <p class="acknowledgement">We acknowledge the Gadigal and Wangal peoples, the Traditional Custodians of this area, and pay respect to Elders past and present.</p>
   <div class="footer-bottom">
     <span>© 2026 Verona House</span>
     <span>Glebe · Sydney · Australia</span>
