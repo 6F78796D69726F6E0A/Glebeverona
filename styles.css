@@ -101,3 +101,6 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--accent); outlin
   .room-card__body .eyebrow { font-size: 12px; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Architecture Tour navigation */
+@media(min-width:901px){.site-header{flex-wrap:wrap}.site-nav{flex-wrap:wrap;row-gap:6px}.site-nav a{white-space:nowrap}}
